@@ -1,4 +1,4 @@
-# Simle-App-on-GCP
+# Simple-App-on-Cloud-Run
 Deploying a simple html application and Nginx, composed a Dockerfile for it and deployed all to Google Cloud Platform (GCP) Cloud Run
 
 ## Create index.html and nginx.conf file
